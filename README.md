@@ -1,8 +1,8 @@
 ### Olá! Eu sou Bruno Araujo 👋
 
 
-- 🔭 Atualmente não trabalho na área. Mas estou em busca de oportunidades.
-- 🌱 Hoje estudo e desenvolvo projetos em Back-End - Java, Porém estou estudando HTML, CSS, Javascript e angular, Tambem tenho interesse em aprender outras linguagens como Python, php e .net.
+- 🔭 Atualmente não trabalho na área. Sou estudante da área e desenvolvedor em formação
+- 🌱 Hoje estudo e desenvolvo projetos em Back-End - Java, Porém tambem tenho conhecimento em HTML, CSS, Javascript e angular, tenho interesse em aprender outras linguagens como Python, php e .net.
 - 💻 Alguns fatos sobre mim, eu gosto de jogar vídeo game, gosto muito de ouvir música e sair com os amigos.
 
 ##
