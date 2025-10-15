@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente não trabalho na área. Sou estudante da área e desenvolvedor em formação
-- 🌱 Hoje estudo e desenvolvo projetos em Back-End - Java, Porém tambem tenho conhecimento em HTML, CSS, Javascript e angular, tenho interesse em aprender outras linguagens como Python, php e .net.
+- 🌱 Hoje estudo e desenvolvo projetos em Back-End - Java, Porém tambem tenho conhecimento em HTML, CSS e Javascript, tambem tenho interesse em aprender outras linguagens e frameworks como Node.js, next.js e react.
 - 💻 Alguns fatos sobre mim, eu gosto de jogar vídeo game, gosto muito de ouvir música e sair com os amigos.
 
 ##
