@@ -23,9 +23,9 @@ Sou um Desenvolvedor de Software com **2 anos de experiência prática**, focado
 
 Atualmente, estou expandindo meu stack para o ecossistema JavaScript (**Node.js, React, NestJS**) para entregar soluções Full Stack modernas de ponta a ponta.
 
-* 🔭 **Foco atual:** Construção de uma plataforma de E-commerce completa com Node.js e React.
-* 💼 **Experiência:** Desenvolvimento de APIs REST, Otimização de SQL, Testes Automatizados (JUnit/Mockito) e Front-end com Angular.
-* ⚡ **Curiosidade:** Apaixonado por transformar café em código limpo e resolver problemas complexos de negócio.
+* 🔭 **Foco atual:** Construção de uma plataforma de PDV completa com Node.js e React.
+* 💼 **Experiência:** Desenvolvimento de APIs REST, Otimização de SQL, Testes Automatizados (JUnit/Mockito) e Front-end com React.
+* ⚡ **Curiosidade:** Apaixonado por tecnologia de todo tipo, seja programação, robotica, desig, jogos e tudo envolvendo tecnologia.
 
 ---
 
@@ -69,11 +69,7 @@ Atualmente, estou expandindo meu stack para o ecossistema JavaScript (**Node.js,
 
 <div align="center">
   <a href="https://github.com/Brunno-Ar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunno-Ar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-Ar&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Brunno-Ar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunno-Ar&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://github.com/Brunno-Ar/Brunno-Ar/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
