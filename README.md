@@ -60,9 +60,8 @@ Atualmente, estou expandindo meu stack para o ecossistema JavaScript (**Node.js,
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **[E-Commerce Platform](LINK_DO_SEU_REPO_AQUI)** | Node.js, React, MongoDB | Plataforma completa com carrinho, autenticação JWT e integração de pagamentos. |
-| **[API Upload Arquivos](LINK_DO_SEU_REPO_AQUI)** | Java, Spring Boot, Angular | Sistema Full Stack para upload e gestão de metadados com persistência em PostgreSQL. |
-| **[Sistema CRM](LINK_DO_SEU_REPO_AQUI)** | Angular, Spring Boot | Sistema de gestão de clientes focado em otimização de processos e performance. |
+| **[Plataforma De PDV (Ponto de Venda)](github.com/Brunno-Ar/SistemaPDV)** | Next, TypeScript, Prisma ORM & PostgreSQL, Tailwind CSS & Shadcn/UI | Plataforma completa com carrinho, autenticação JWT e integração de pagamentos. |
+| **[API Upload Arquivos](https://github.com/Brunno-Ar/api-upload-arquivos)** | Node.js, Express, React e PostgreSQL | Sistema Full Stack para upload e gestão de metadados com persistência em PostgreSQL. |
 
 ---
 
